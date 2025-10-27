@@ -1,9 +1,13 @@
-Traceback (most recent call last):
-
- File "app.py", line 45, in <module>
-   connect_to_database()
- File "app.py", line 23, in connect_to_database
-   conn = psycopg2.connect(
- File "/home/user/.local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
-   conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
-psycopg2.OperationalError: connection to server at "[DB_HOST_PLACEHOLDER]" (172.17.0.2), port 5432 failed: FATAL: password authentication failed for user "[DB_USER_PLACEHOLDER]"
+VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOg0KDQogRmlsZSAi
+YXBwLnB5IiwgbGluZSA0NSwgaW4gPG1vZHVsZT4NCiAgIGNvbm5lY3RfdG9f
+ZGF0YWJhc2UoKQ0KIEZpbGUgImFwcC5weSIsIGxpbmUgMjMsIGluIGNvbm5l
+Y3RfdG9fZGF0YWJhc2UNCiAgIGNvbm4gPSBwc3ljb3BnMi5jb25uZWN0KA0K
+IEZpbGUgIi9ob21lL3VzZXIvLmxvY2FsL2xpYi9weXRob24zLjgvc2l0ZS1w
+YWNrYWdlcy9wc3ljb3BnMi9fX2luaXRfXy5weSIsIGxpbmUgMTIyLCBpbiBj
+b25uZWN0DQogICBjb25uID0gX2Nvbm5lY3QoZHNuLCBjb25uZWN0aW9uX2Zh
+Y3Rvcnk9Y29ubmVjdGlvbl9mYWN0b3J5LCAqKmt3YXN5bmMpDQpwc3ljb3Bn
+Mi5PcGVyYXRpb25hbEVycm9yOiBjb25uZWN0aW9uIHRvIHNlcnZlciBhdCAi
+W0RCX0hPU1RfUExBQ0VIT0xERVJdIiAoMTcyLjE3LjAuMiksIHBvcnQgNTQz
+MiBmYWlsZWQ6IEZBVEFMOiBwYXNzd29yZCBhdXRoZW50aWNhdGlvbiBmYWls
+ZWQgZm9yIHVzZXIgIltEQl9VU0VSX1BMQUNFSE9MREVSXSINCg==
+# ESTO ES UNA PRUEBA
